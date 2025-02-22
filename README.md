@@ -1,7 +1,4 @@
 ## ✨ Hello! I'm André Maciel Fagundes 🚐️
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andrefagundes&theme=dark)](https://git.io/streak-stats)
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andremfagundes/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andremacielfagundes)
 
